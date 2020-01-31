@@ -23,6 +23,5 @@ public class Calculator {
                 .map(f)
 //                .map(y -> y * h)
                 .sum()*h;
-//        IntStream.range(0, n)
     }
 }
